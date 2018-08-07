@@ -2,6 +2,10 @@
 ###################
 /Data
 
-# Backup Files #
+# gedit Backup Files #
 ###################
 *~
+
+# Jupyter Notebook Checkpoints #
+###################
+*.ipynb_checkpoints
